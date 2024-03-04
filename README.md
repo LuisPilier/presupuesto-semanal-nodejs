@@ -24,3 +24,5 @@ https://youtu.be/qQzvVIcdLWc
 
 # Ejecutar programa
 
+### `node servidor.js`
+
